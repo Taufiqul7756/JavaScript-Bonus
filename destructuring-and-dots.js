@@ -21,3 +21,6 @@ const two = 35;
 const obj = { x: x, y: y };
 const obj2 = { one, two };
 // console.log(obj2);
+
+//new array using three dots
+const newNumbers = [...numbers, 56]; //push
